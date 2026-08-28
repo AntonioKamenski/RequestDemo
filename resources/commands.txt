@@ -1,0 +1,7 @@
+!sr [name] - add song to queue (everyone)
+!oops - remove last song request from queue by the same user (everyone)
+!queue - show queue (MOD, VIP)
+!next - switch to the next song (MOD, VIP)
+!clear - clear queue (Streamer)
+!remove [index] - remove song from queue at the specified index (MOD)
+!end - close queue (Streamer)
